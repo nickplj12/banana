@@ -1,4 +1,11 @@
-new WinBox("WinBox.js", {
+const cb = document.querySelector('#admin');
 
-    url: "https://nextapps-de.github.io/winbox/"
-});
+function app(link) {
+    var postfix = '';
+    if (cb.checked) postfix = '/#admin';
+    var winBox = new WinBox('Admin Terminal', {
+        url: link + postfix,
+            modal: true
+        });
+    return winBox;
+}
