@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="257"
+     inkscape:cy="194"
+     inkscape:window-width="1900"
+     inkscape:window-height="1036"
+     inkscape:window-x="8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid233" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffff00;stroke:none"
+       id="path237"
+       cx="255"
+       cy="255"
+       r="255" />
+    <path
+       style="fill:#948000;fill-opacity:1;stroke:none;stroke-width:1.45529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 331.93677,141.06351 15.23092,2.22878 c 0,0 20.59432,28.52227 25.51839,65.55361 4.77052,35.87658 8.95113,84.65865 -38.38466,124.72164 -31.30368,26.4941 -62.72041,31.48542 -92.82475,34.5647 -17.62659,1.80296 -41.89693,0.6678 -60.11648,-4.35374 -24.21388,-6.67365 -46.74047,-18.53164 -46.74047,-18.53164 l -0.0663,-16.36348 c 0,0 99.91478,-9.77879 159.0809,-53.63286 37.43072,-27.74373 43.67142,-93.15834 38.30236,-134.18701 z"
+       id="banana"
+       sodipodi:nodetypes="ccssssccscc" />
+  </g>
+</svg>
