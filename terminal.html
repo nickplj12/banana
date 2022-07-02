@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <head>
     <link rel="stylesheet" href="css/term.css">
-    <script href="terminal.js"></script>
 </head>
-<body style="background-color:black; ">
-<p>Welcome to Bravo Tech Admin Terminal</p>
-<p style="color: rgb(255, 0, 0);">ERROR: Fake signal found.</p>
-<p style="color: dodgerblue;">REASON: User is located in ANYWHERE OTHER THAN BANANA ISLAND.</p><p>Geolocation incorrect and terminal no work.<br>[QUITTING AND SAVING ALL WORK FOR BFRMER_2093XX]</p>
+<body>
+    <span>Welcome to Bravo Tech Admin Terminal</span><br>
+    Checking Geolocation... <b style="color: red">FAIL</b><br>
+    <span style="color: red;">ERROR: Unusual user activity found.</span><br>
+    <span style="color: dodgerblue;">REASON: User is located in [REDACTED], not in The Banana Islands.</span><br>
+    <div id='without-admin'>
+        [QUITTING AND SAVING ALL WORK FOR BFRMER_2093XX]<br>
+    </div>
+    <div id='with-admin'>
+        User is admin, ignoring previous error...<br>
+        Welcome, <b style='color: red'>ADMIN</b>!<br>
+    </div>
+    <!-- scripts -->
+    <script src="terminal.js"></script>
 </body>

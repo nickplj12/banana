@@ -2,7 +2,7 @@ const cb = document.querySelector('#admin');
 
 function app(link, name) {
     var postfix = '';
-    if (cb.checked) postfix = '/#admin';
+    if (cb.checked) postfix = '#admin';
     var winBox = new WinBox({
         title: name,
         url: link + postfix,
